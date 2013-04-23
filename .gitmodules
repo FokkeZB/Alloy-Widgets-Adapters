@@ -82,3 +82,6 @@
 [submodule "widgets/button"]
 	path = widgets/button
 	url = https://github.com/FokkeZB/nl.fokkezb.button.git
+[submodule "widgets/loading"]
+	path = widgets/loading
+	url = https://fokkezb@github.com/FokkeZB/nl.fokkezb.loading.git
